@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/saksham saksham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham saksham" height="30" width="40" /></a>
 <a href="https://instagram.com/saksham_nir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saksham_nir" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saksham_raj_jn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saksham_raj_jn" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/saksham_beast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saksham_beast" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/saksham_beast" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210511160813/g4g.jpg" alt="saksham_beast" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
