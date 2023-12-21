@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saksham saksham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham saksham" height="30" width="40" /></a>
-<a href="https://instagram.com/saksham_nir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saksham_nir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saksham_raj_jn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saksham_raj_jn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saksham saksham" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" alt="saksham saksham" height="30" width="40" /></a>
+<a href="https://instagram.com/saksham_nir" target="blank"><img align="center" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=740&t=st=1703148264~exp=1703148864~hmac=55ffb71ee58bf375d7b853ef465d2e45927956ebbc9d4850b3c4c6c6a02e67e4" alt="saksham_nir" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saksham_raj_jn" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" alt="saksham_raj_jn" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/saksham_beast" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210511160813/g4g.jpg" alt="saksham_beast" height="30" width="40" /></a>
 </p>
 
