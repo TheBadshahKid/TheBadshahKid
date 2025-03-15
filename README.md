@@ -7,8 +7,8 @@
 </p>
 <br />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saksham123&style=for-the-badge&color=6E5DE7" alt="Profile Views"/>
-  <a href="https://github.com/saksham123?tab=followers">
+  <img src="https://komarev.com/ghpvc/?username=THeBadshahKid&style=for-the-badge&color=6E5DE7" alt="Profile Views"/>
+  <a href="https://github.com/THeBadshahKid?tab=followers">
     <img src="https://img.shields.io/github/followers/saksham123?label=Followers&style=for-the-badge&color=6E5DE7" alt="Followers"/>
   </a>
 </p>
