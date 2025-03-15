@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=300&section=header&text=Saksham%20Gupta&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack&descSize=22&descAlignY=55&animation=twinkling" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=300&section=header&text=Saksham%20&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack&descSize=22&descAlignY=55&animation=twinkling" width="100%" alt="Banner"/>
 </div>
 <br />
 <p align="center">
@@ -78,14 +78,6 @@
 <!--START_SECTION:activity-->
 <!-- This section will be updated by a GitHub Action workflow -->
 <!--END_SECTION:activity-->
-<br />
-<h2 align="center">📌 Pinned Repositories</h2>
-<br />
-<p align="center">
-  <a href="https://github.com/saksham123/ProjectX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saksham123&repo=ProjectX&theme=tokyonight&hide_border=true" alt="Pinned Repo"/>
-  </a>
-</p>
 <br />
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&animation=twinkling" width="100%" alt="Footer"/>
