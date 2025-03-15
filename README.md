@@ -73,12 +73,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=saksham123&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%"/>
 </p>
 <br />
-<h2 align="center">⚡ Recent GitHub Activity</h2>
-<br />
-<!--START_SECTION:activity-->
-<!-- This section will be updated by a GitHub Action workflow -->
-<!--END_SECTION:activity-->
-<br />
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&animation=twinkling" width="100%" alt="Footer"/>
 </div>
